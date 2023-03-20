@@ -16,7 +16,7 @@ Este é um programa em Python que usa a biblioteca Tkinter para criar uma interf
 
 ## Requisitos
 
-Para executar este programa, você precisará ter Python 3.x instalado em seu computador. Você também precisará instalar as seguintes bibliotecas:
+Para executar este programa, você precisará ter Python 3.9 instalado em seu computador. Você também precisará instalar as seguintes bibliotecas:
 
 - Tkinter
 - geopy
